@@ -6,6 +6,7 @@ This application, which uses Dio and provider, is designed within the MVVM patte
 ## Getting Started
 To get started, you will need to have the following installed:
 
+```
 dependencies:
   flutter:
     sdk: flutter
@@ -17,18 +18,32 @@ dependencies:
   intl: ^0.18.1
   url_launcher: ^6.1.12
   json_annotation: ^4.8.1
-
+```
+```
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
   build_runner: ^2.4.6
   json_serializable: ^6.7.1
+```
 
 Once you have these installed, you can clone the repository and run the following command to install the dependencies:
 
-$ flutter pub get
+> flutter pub get
 
 Then, you can run the app by running the following command:
 
-$ flutter run
+> flutter run
+
+## Outputs
+
+![gameapp_games](https://github.com/kahveciogluo/game_app/assets/80224415/9bb2ea8b-fc14-4489-859f-9e01ab916861)
+
+![gameapp_gamedetail](https://github.com/kahveciogluo/game_app/assets/80224415/50070d83-7e78-4bd4-8bf8-8af97c6056a5)
+
+
+https://github.com/kahveciogluo/game_app/assets/80224415/31f91ee5-b6a2-415b-a63a-6a21892e0db0
+
+
+
