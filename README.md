@@ -42,8 +42,9 @@ Then, you can run the app by running the following command:
 
 ![gameapp_gamedetail](https://github.com/kahveciogluo/game_app/assets/80224415/50070d83-7e78-4bd4-8bf8-8af97c6056a5)
 
-
 https://github.com/kahveciogluo/game_app/assets/80224415/31f91ee5-b6a2-415b-a63a-6a21892e0db0
+
+https://github.com/kahveciogluo/game_app/assets/80224415/a47e1fcb-3b0a-428d-9356-6bd2d35f3838
 
 
 
